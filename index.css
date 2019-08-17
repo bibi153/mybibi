@@ -1,0 +1,16 @@
+.heading {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    background-color: pink;
+}
+.body {
+ padding: 50px;
+}
+.mystyle{
+    font-size: 100px;
+}
+.myimagestyle {
+    background-size: cover;
+    background-image: url("index.jpg");
+}
